@@ -32,7 +32,7 @@ Can be handy to keep track of things to do:
 - [x] Task one is done
 - [x] Task two is done
 - [x] Task three is done
-- [ ] This task is not yet done
+- [x] This task is not yet done
 
 ## Code Blocks
 
