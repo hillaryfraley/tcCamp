@@ -1,6 +1,6 @@
 # Welcome to the ReadMe for this Project
 
-TC Camp is fun so far!
+TC Camp is fun so far! I'm learning a lot about GitHub Documentation Workflows.
 
 This ReadMe was authored in Markdown, specifically GitHub Flavored Markdown, which includes syntax highlighting, task lists, tables, and @mentions. (@Name, did I miss anything?) 
 
