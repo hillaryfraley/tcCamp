@@ -1,5 +1,3 @@
-# TC Camp Sample Markdown
-
 # Welcome to the ReadMe for this Project
 
 This ReadMe was authored in Markdown, specifically GitHub Flavored Markdown, which includes syntax highlighting, task lists, tables, and @mentions. (@Name, did I miss anything?) 
